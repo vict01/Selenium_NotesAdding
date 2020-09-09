@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Maven: cglib:cglib-nodep:3.2.4">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/cglib/cglib-nodep/3.2.4/cglib-nodep-3.2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
